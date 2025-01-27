@@ -24,5 +24,11 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.organizeImports": "explicit"
+    }
   },
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".github/copilot-codegen-instructions.md",
+    }
+  ]
 }
