@@ -1,0 +1,21 @@
+_commit: 1.3.0
+_src_path: https://github.com/flowtaleai/copier-python-poetry
+author_email: simgunz@gmail.com
+author_name: Simone Gaiarin
+distribution_name: comproaffitto
+generate_docs: none
+generate_example_code: true
+git_hosting: none
+ide: vscode
+license: MIT license
+max_line_length: 88
+package_name: comproaffitto
+package_type: library
+project_name: Compro o Affitto
+project_short_description: Comparatore per capire se è meglio compare o affittare
+python_version: '3.12'
+strip_jupyter_outputs: true
+testing_framework: pytest
+use_flake8_strict_plugins: true
+use_jupyter_notebooks: true
+version: 0.0.0
